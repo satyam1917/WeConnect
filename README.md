@@ -1,6 +1,6 @@
 ### Name: Satyam Mishra
 ### College: IIT Kharagpur
-### Department: Geology and Geophysics**
+### Department: Geology and Geophysics
 
 # WeConnect 
 
