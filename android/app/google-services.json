@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712425551744",
+    "project_id": "weconnect-dd5aa",
+    "storage_bucket": "weconnect-dd5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712425551744:android:174e7b7752e0f6fee2b365",
+        "android_client_info": {
+          "package_name": "com.satya.weconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQePkCcHT-Pu02-qJtYqHNWQoSyLGQDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
