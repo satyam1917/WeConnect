@@ -60,7 +60,7 @@ class _AiScreenState extends State<AiScreen> {
   //get answer from google gemini ai
   Future<String> _getAnswer(final String question) async {
     try {
-      const apiKey = 'AIzaSyBGrQBWMYneCErvq3ONnwyDee-N7-BEatQ';
+      const apiKey = 'Your_Gemini_API_Key';
 
       log('api key: $apiKey');
 
