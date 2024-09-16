@@ -1,7 +1,3 @@
-### Name: Satyam Mishra
-### College: IIT Kharagpur
-### Department: Geology and Geophysics
-
 # WeConnect 
 
 WeConnect is a web and mobile online chat application developed with Flutter and Dart. It provides real-time messaging between the people who are connected, chatting one-to-one, photo uploading, and features an integrated AI assistant using the Gemini API. The backend services are maintained on Firebase to take care of authentication, storage, real-time updates, media storage, and push notifications. 
